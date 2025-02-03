@@ -1,12 +1,19 @@
 # Hi there, I'm A. Habib Almaula! 👋
 
-### I'm a software developer passionate about building cool things.
+### I'm a **Fullstack Developer** specializing in **Flutter** and **mobile app development**. I love building clean, scalable, and user-friendly applications. Let's create something amazing together! 🚀
 
-## My Tech Stack 🛠️
+## 🛠️ Tech Stack
 
-- **Languages**: JavaScript, Python, Java
-- **Frameworks**: React, Node.js
-- **Tools**: Git, Docker, VS Code
+### Mobile Development
+- **Languages**: Flutter, Dart, Kotlin
+- **State Management**: Bloc, Provider, GetX
+- **Architecture**: Clean Architecture, Clean Code
+- **Testing**: Unit Testing, TDD
+
+### Web Development
+- **Frontend**: React
+- **Backend**: Node.js, Laravel, GO(ongoing 🚀)
+- **Databases**: PostgreSQL, MySQL
 
 ## GitHub Stats 📊
 
